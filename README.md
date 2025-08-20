@@ -1,0 +1,1 @@
+Note this fork patches the issues in the `.json` file for hey_jarvis. I realized (too late) that my modifications are very similar to the ones outlined in https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords/pull/3. I would suggest just pulling the changes from there as that pull request works for all models.  
